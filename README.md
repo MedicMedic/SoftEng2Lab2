@@ -1,4 +1,4 @@
-![Blank diagram (7)](https://github.com/MedicMedic/SoftEng2Lab2/assets/142379309/9fa0b9bb-51c7-4019-bbe7-f4076bfcb439)# Problem scenario:
+# Problem scenario:
 
 Suppose we have three types of characters in a GameApp:
 
